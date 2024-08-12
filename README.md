@@ -1,1 +1,1 @@
-# BlogDjangoAWS
+# BlogDjango
